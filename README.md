@@ -1,4 +1,6 @@
 WEDE5020 Website Project – Patrao’s Hair Salon
+Name: Kingsley Mathe
+Student number:ST10488387
 
 
 Project Overview
